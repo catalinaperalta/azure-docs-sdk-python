@@ -76,6 +76,7 @@ Content Safety recognizes four distinct categories of objectionable content.
 |Sexual	|Sexual describes content related to anatomical organs and genitals, romantic relationships, acts portrayed in erotic or affectionate terms, pregnancy, physical sexual acts—including those acts portrayed as an assault or a forced sexual violent act against one’s will—, prostitution, pornography, and abuse.|
 |Violence	|Violence describes content related to physical actions intended to hurt, injure, damage, or kill someone or something. It also includes weapons, guns and related entities, such as manufacturers, associations, legislation, and similar.|
 |Self-harm	|Self-harm describes content related to physical actions intended to purposely hurt, injure, or damage one’s body or kill oneself.|
+
 Classification can be multi-labeled. For example, when a text sample goes through the text moderation model, it could be classified as both Sexual content and Violence.
 
 ### Severity levels
